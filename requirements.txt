@@ -1,2 +1,4 @@
 pytube
 os
+numpy 
+pandas
